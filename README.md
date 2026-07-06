@@ -2,30 +2,28 @@
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
 ---
 
-# Project Overview
+## Project Overview
 
-The Ecommerce Sales Dashboard is an interactive Power BI dashboard designed to analyze online sales performance. It provides insights into revenue, profit, quantity sold, customer behavior, payment methods, product categories, and monthly sales trends. This dashboard helps businesses monitor key performance indicators (KPIs) and make data-driven decisions.
+The Ecommerce Sales Dashboard is an interactive Power BI dashboard designed to analyze online sales performance. It helps businesses monitor sales, profit, quantity sold, customer behavior, payment methods, product categories, and monthly trends using interactive visualizations.
 
 ---
 
-# Business Objective
-
-The objective of this project is to:
+## Business Objectives
 
 - Analyze overall sales performance.
-- Track profit across different product categories.
-- Identify top customers by sales.
+- Identify top-performing customers.
 - Compare sales across different states.
-- Analyze payment method preferences.
-- Monitor monthly profit trends.
+- Track monthly profit trends.
+- Analyze payment methods.
+- Understand category-wise sales performance.
 
 ---
 
-# Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 -  Total Sales Amount
 -  Total Quantity Sold
@@ -34,20 +32,20 @@ The objective of this project is to:
 
 ---
 
-# Dashboard Features
+## Dashboard Features
 
-- State-wise Sales Analysis
-- Category-wise Quantity Analysis
-- Profit by Product Sub-Category
-- Top Customers by Sales
-- Payment Mode Distribution
-- Monthly Profit Analysis
 - Interactive State Filter
 - Quarterly Filter
+- Category-wise Quantity Analysis
+- State-wise Sales Analysis
+- Profit by Sub-Category
+- Customer-wise Sales Analysis
+- Payment Mode Analysis
+- Monthly Profit Analysis
 
 ---
 
-# Tools & Technologies Used
+## Tools & Technologies Used
 
 - Power BI
 - Power Query
@@ -56,71 +54,60 @@ The objective of this project is to:
 
 ---
 
-# Dataset Information
+## Dataset Information
 
-The dataset contains Ecommerce sales information including:
+The dashboard is created using Ecommerce Sales data containing:
 
-- Order Details
-- Customer Information
+- Customer Details
 - Product Category
 - Sub-Category
 - Sales Amount
-- Quantity
 - Profit
-- Payment Mode
+- Quantity
 - State
+- Payment Mode
 - Order Date
 
 ---
 
-# Key Business Insights
+## Key Insights
 
-- West Bengal generated the highest sales among the selected states.
-- Clothing category contributed the highest quantity sold.
-- Saree generated the highest profit among all sub-categories.
+- Bihar generated the highest sales in the selected data.
+- Clothing category recorded the highest quantity sold.
+- Printers generated the highest profit among all sub-categories.
 - COD was the most preferred payment method.
-- March recorded the highest monthly profit.
-- A few customers contributed a significant portion of total revenue.
+- November recorded the highest monthly profit.
+- A small number of customers contributed significantly to total revenue.
 
 ---
 
-# Files Included
+## Files Included
 
 - Ecommerce_Sales_Dashboard.pbix
-- Ecommerce_Sales_Data.csv
-- Dashboard.png
+- Orders.csv
+- Details.csv
+- Dashboard Screenshot.png
 - README.md
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
+- Data Transformation
 - Data Modeling
 - DAX Calculations
-- Power Query
-- Data Visualization
-- Business Intelligence
 - KPI Dashboard Design
+- Business Intelligence
 - Interactive Reporting
+- Data Visualization
 
 ---
 
-# Future Improvements
-
-- Add Year-wise Comparison
-- Customer Segmentation
-- Profit Margin Analysis
-- Sales Forecasting
-- Dynamic Date Slicers
-
----
-
-# Author
+## Author
 
 **Kapil Kumar**
 
 Aspiring Data Analyst | Power BI Developer
 
-GitHub:
-https://github.com/kapilkumarcareer1-ux
+GitHub: https://github.com/kapilkumarcareer1-ux
